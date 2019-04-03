@@ -3,3 +3,6 @@ PyCharm
 
 DB Sqlite
 db.sqlite3
+
+Python
+__pycache__
